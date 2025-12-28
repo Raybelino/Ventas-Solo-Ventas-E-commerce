@@ -15,7 +15,6 @@ namespace Back_End.Controllers
     {
         public PaymentsController()
         {
-            StripeConfiguration.ApiKey = "sk_test_51RiREnCja6HHO2yIq7bymp5VghosL457UqfdlPr1LOlujge6Q07VCxaScLVs05QQSk9U6CowTiY3w56PyYDBjvbL00dB0SCYfY"; // ✅ Sustituye esto por tu clave secreta real
         }
 
         /// <summary>
